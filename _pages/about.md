@@ -22,7 +22,6 @@ Hi there, my name is Anna. I am a PhD student at the [Kyushu University](https:/
 ### Publications
 
 <img style="float: left;" src="https://p.ipic.vip/o4hfrw.jpg" width="300">
-
 We propose Contrastive Goal Grouping (COGOAL), a self-supervised goal embedding algorithm for learning a well-structured latent goal space to simplify goal-conditioned reinforcement learning. Compared to conventional reconstruction-based methods such as variational autoencoder, our approach can benefit from previously learnt goals and achieve better generalizability.
 [Qiming Zou, Einoshin Suzuki. (2021), in press](https://link.springer.com/chapter/10.1007/978-3-030-92185-9_20)
 
